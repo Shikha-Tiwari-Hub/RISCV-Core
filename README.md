@@ -9,19 +9,19 @@ The project is organized into separate stages to document the journey from proce
 
 ## 1. Functional Verification
 
-Repository: [RISCV-Core-Verification]((https://github.com/Shikha-Tiwari-Hub/RISCV-core-Verification.git))
+Repository: [RISCV-Core-Verification](https://github.com/Shikha-Tiwari-Hub/RISCV-core-Verification)
 
 Contains the verification methodology, testbenches, simulation results, and waveform evidence.
 
 ## 2. Logic Synthesis, DFT & LEC
 
-Repository: [RISCV-Core-Synthesis]([SYNTHESIS_REPO_URL](https://github.com/Shikha-Tiwari-Hub/RISCV-Core-Synthesis.git))
+Repository: [RISCV-Core-Synthesis](https://github.com/Shikha-Tiwari-Hub/RISCV-Core-Synthesis.git)
 
 Documents RTL-to-gate-level synthesis, technology mapping, design-for-testability, ATPG, and logic equivalence checking.
 
 ## 3. Physical Design
 
-Repository: [RISCV-Core-Physical-Design]([PHYSICAL_DESIGN_REPO_UR](https://github.com/Shikha-Tiwari-Hub/RISCV-Core-PhysicalDesign.git)L)
+Repository: [RISCV-Core-Physical-Design](https://github.com/Shikha-Tiwari-Hub/RISCV-Core-PhysicalDesign.git)
 
 Documents the implementation flow from floorplanning and power planning through placement, clock tree synthesis, routing, physical verification, and GDSII generation.
 
@@ -55,12 +55,14 @@ Additional modules provide register storage, control and status registers, and i
 
 ## 4. Project Repositories
 
+## Project Repositories
+
 | Stage | Repository | Scope |
 |---|---|---|
 | RTL Design | This repository | Processor RTL, architecture, and design documentation |
-| Functional Verification | [RISCV-Core-Verification]((https://github.com/Shikha-Tiwari-Hub/RISCV-core-Verification.git)) | Testbenches, simulation, and verification evidence |
-| Synthesis, DFT & LEC | [RISCV-Core-Synthesis]([SYNTHESIS_REPO_URL](https://github.com/Shikha-Tiwari-Hub/RISCV-Core-Synthesis.git)) | Gate-level synthesis, testability, and equivalence checks |
-| Physical Design | [RISCV-Core-Physical-Design]([PHYSICAL_DESIGN_REPO_UR](https://github.com/Shikha-Tiwari-Hub/RISCV-Core-PhysicalDesign.git)) | Floorplanning through routing, physical checks, and GDSII |
+| Functional Verification | [RISCV-Core-Verification](https://github.com/Shikha-Tiwari-Hub/RISCV-core-Verification) | Testbenches, simulation, and verification evidence |
+| Synthesis, DFT & LEC | [RISCV-Core-Synthesis](https://github.com/Shikha-Tiwari-Hub/RISCV-Core-Synthesis) | Gate-level synthesis, testability, and equivalence checks |
+| Physical Design | [RISCV-Core-Physical-Design](https://github.com/Shikha-Tiwari-Hub/RISCV-Core-PhysicalDesign) | Floorplanning through routing, physical checks, and GDSII |
 
 
 ## 5. Tools and Technologies
